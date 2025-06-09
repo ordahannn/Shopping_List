@@ -1,0 +1,21 @@
+export const departmentMapping = {
+    "🍞": "Bakery",
+    "❄️": "Frozen Foods",
+    "🥬": "Vegetables",
+    "🍓": "Fruits",
+    "🧀": "Dairy",
+    "🐟": "Seafood",
+    "🥩": "Meat",
+    "🥫": "Pantry Items",
+    "🥜": "Bulk Foods Items",
+    "🌿": "Gluten-Free & Organic Foods",
+    "🥤": "Beverages",
+    "🍽️": "Kitchen & Dining Essentials",
+    "🧼": "Cleaning Supplies",
+    "💊": "Health Supplies",
+    "🧖🏼‍♀️": "Personal Care Supplies",
+    "👶🏻": "Baby Supplies",
+    "🐶": "Pet Supplies",
+    "🛒": "Checkout & Front End Items",
+    "💡": "Other", // Default category
+  };
