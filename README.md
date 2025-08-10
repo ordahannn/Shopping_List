@@ -1,59 +1,32 @@
-## 📜 Submitted By
+# Shopping List
 
-- **Or Dahan** 
-- **Roni Ronen**
-- Course: Mobile App Development  
-- Assignment: Exercise 4  
-- Date: February 2025  
+**Shopping List** is a mobile application built with React Native and Expo for managing a personal grocery list.  
+It allows users to add, edit, and delete shopping items, with data stored locally for offline use.  
+The app uses a clean and responsive UI with light/dark mode support.
 
+---
 
-# Welcome to our Shopping-List app 👋
+## Features
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+- Add new items to the shopping list.
+- Edit or delete existing items.
+- Suggestions for common grocery items.
+- Local data storage using **AsyncStorage** (works offline).
+- Light and dark theme support using `useThemeColor`.
 
-## Get started
+---
 
-1. Install dependencies
+## Technologies Used
 
-   ```bash
-   npm install
-   ```
+- **React Native** (Expo)
+- **TypeScript**
+- **Gluestack UI** – for consistent design and components
+- **AsyncStorage** – for local data persistence
 
-2. Start the app
+---
 
-   ```bash
-    npx expo start
-   ```
+## About the Project
 
-In the output, you'll find options to open the app in a
+This application was developed as part of the Mobile Application Development course in the Computer Science Bachelor's degree at Ruppin Academic Center.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+**Developed by:** Or Dahan & Roni Ronen
