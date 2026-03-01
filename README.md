@@ -34,12 +34,35 @@ The app uses a clean and responsive UI.
 
 ---
 
-## Technologies Used
+## Tech Stack
 
-- **React Native** (Expo)
-- **TypeScript**
-- **Gluestack UI** – for consistent design and components
-- **AsyncStorage** – for local data persistence
+| Layer | Technology |
+|-------|-----------|
+| Framework | React Native (Expo) |
+| Language | TypeScript / JSX |
+| Navigation | Expo Router |
+| UI Components | Gluestack UI |
+| Local Storage | AsyncStorage |
+
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+- Node.js ≥ 18
+- Expo CLI
+- Expo Go app on your device (or iOS/Android simulator)
+
+### Installation
+
+```bash
+git clone https://github.com/ordahannn/Shopping_List.git
+cd Shopping_List
+npm install
+npx expo start
+```
+
+Scan the QR code with **Expo Go** or launch on a simulator.
 
 ---
 
